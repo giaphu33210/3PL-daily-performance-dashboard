@@ -20,7 +20,7 @@ This dashboard helps logistics teams monitor:
 
 ## 📈 Sample Dashboard View
 
-
+![Cross Border Dashboard](./assets/dashboard-sample.png)
 
 ## 🧰 Tech Stack
 - **Google Sheets**: Data aggregation
